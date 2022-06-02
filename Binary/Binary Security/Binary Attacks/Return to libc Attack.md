@@ -1,3 +1,0 @@
-- The premise of this type of attack is that the majority of applications have some linkage to the standard C library
-- Given most Linux systems thwart shell code injection using  a non-executable stack, the attacker shifts their focus to altering the flow of the application to make a call to the “execl()” or “system()” functions. 
-	- Both of these functions allow the attacker to execute any command they wish under the context of the running application.

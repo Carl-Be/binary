@@ -1,1 +1,0 @@
-every Dynamic Shared Object (DSO) 

@@ -1,1 +1,0 @@
-`x/s *((char**)environ) || x/s *((char**)environ + n)`
