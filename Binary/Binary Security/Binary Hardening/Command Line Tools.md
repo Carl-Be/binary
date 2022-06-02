@@ -1,0 +1,1 @@
+- strip - discard symbols and other data from object files
